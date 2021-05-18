@@ -1958,3 +1958,2280 @@ BlobID     Area Perimeter       Color Class Classification Score Edge Score
 BlobID   Area Perimeter       Color Class Classification Score Edge Score
      2  550.0     93.94 (255, 0, 0)  FAKE                 0.72      18.14
 
+####################################################################
+
+Frame number:312
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  16023.0    689.19 (0, 255, 0) HUMAN                20.86       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  537.0     93.11 (255, 0, 0)  FAKE                  0.7      13.91
+
+####################################################################
+
+Frame number:313
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  16475.5    708.94 (0, 255, 0) HUMAN                21.45       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  540.0     93.11 (255, 0, 0)  FAKE                  0.7      27.64
+
+####################################################################
+
+Frame number:314
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  17311.5    690.94 (0, 255, 0) HUMAN                22.54       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  527.0     93.11 (255, 0, 0)  FAKE                 0.69      20.74
+
+####################################################################
+
+Frame number:315
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  18056.5    727.09 (0, 255, 0) HUMAN                23.51       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  557.0     94.28 (255, 0, 0)  FAKE                 0.73      37.32
+
+####################################################################
+
+Frame number:316
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  15836.5    864.97 (0, 255, 0) HUMAN                20.62       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  557.0     95.11 (255, 0, 0)  FAKE                 0.73      27.41
+
+####################################################################
+
+Frame number:317
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  14458.0    650.22 (0, 255, 0) HUMAN                18.83       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  546.0     93.11 (255, 0, 0)  FAKE                 0.71      16.84
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  577.5    118.67 (0, 0, 255) OBJECT                 0.75     128.77
+
+####################################################################
+
+Frame number:318
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  13765.5    576.72 (0, 255, 0) HUMAN                17.92       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  543.0     93.11 (255, 0, 0)  FAKE                 0.71      13.25
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  618.0    125.25 (0, 0, 255) OBJECT                  0.8     123.91
+
+####################################################################
+
+Frame number:319
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  13709.5    569.89 (0, 255, 0) HUMAN                17.85       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  527.5      91.7 (255, 0, 0)  FAKE                 0.69      23.59
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  663.0     123.6 (0, 0, 255) OBJECT                 0.86     133.14
+
+####################################################################
+
+Frame number:320
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  13287.0    555.85 (0, 255, 0) HUMAN                 17.3       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.5      91.7 (255, 0, 0)  FAKE                 0.69      19.91
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  669.0     123.6 (0, 0, 255) OBJECT                 0.87     133.06
+
+####################################################################
+
+Frame number:321
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12517.5    544.09 (0, 255, 0) HUMAN                 16.3       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  520.5      91.7 (255, 0, 0)  FAKE                 0.68      28.29
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  667.5     123.5 (0, 0, 255) OBJECT                 0.87     140.63
+
+####################################################################
+
+Frame number:322
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11935.5    539.89 (0, 255, 0) HUMAN                15.54       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  550.0     94.28 (255, 0, 0)  FAKE                 0.72      28.62
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  620.0    124.08 (0, 0, 255) OBJECT                 0.81     133.95
+
+####################################################################
+
+Frame number:323
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11649.5    528.58 (0, 255, 0) HUMAN                15.17       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  538.5     92.53 (255, 0, 0)  FAKE                  0.7      18.24
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  631.5    124.67 (0, 0, 255) OBJECT                 0.82     127.61
+
+####################################################################
+
+Frame number:324
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11280.5    521.06 (0, 255, 0) HUMAN                14.69       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  517.5      91.7 (255, 0, 0)  FAKE                 0.67      32.03
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  698.0    130.08 (0, 0, 255) OBJECT                 0.91     125.48
+
+####################################################################
+
+Frame number:325
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11199.5    516.92 (0, 255, 0) HUMAN                14.58       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  529.5      91.7 (255, 0, 0)  FAKE                 0.69      31.06
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  729.0    124.43 (0, 0, 255) OBJECT                 0.95     130.48
+
+####################################################################
+
+Frame number:326
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11466.0    533.02 (0, 255, 0) HUMAN                14.93       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.0     92.77 (255, 0, 0)  FAKE                 0.68      24.74
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  861.0    130.91 (0, 0, 255) OBJECT                 1.12     130.87
+
+####################################################################
+
+Frame number:327
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11634.0    529.36 (0, 255, 0) HUMAN                15.15       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  526.0     91.94 (255, 0, 0)  FAKE                 0.68      30.26
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  913.5    133.84 (0, 0, 255) OBJECT                 1.19     128.32
+
+####################################################################
+
+Frame number:328
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11484.0    524.88 (0, 255, 0) HUMAN                14.95       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  504.0     89.46 (255, 0, 0)  FAKE                 0.66      12.82
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  928.0    136.08 (0, 0, 255) OBJECT                 1.21     131.81
+
+####################################################################
+
+Frame number:329
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11125.5    523.12 (0, 255, 0) HUMAN                14.49       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  528.0     92.77 (255, 0, 0)  FAKE                 0.69      26.02
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  910.5    136.67 (0, 0, 255) OBJECT                 1.19      127.6
+
+####################################################################
+
+Frame number:330
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10676.5    526.29 (0, 255, 0) HUMAN                 13.9       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  525.0     91.11 (255, 0, 0)  FAKE                 0.68      24.59
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  927.5    135.01 (0, 0, 255) OBJECT                 1.21     124.45
+
+####################################################################
+
+Frame number:331
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10314.0    527.91 (0, 255, 0) HUMAN                13.43       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  527.0     91.94 (255, 0, 0)  FAKE                 0.69      27.22
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  943.0    138.08 (0, 0, 255) OBJECT                 1.23     128.06
+
+####################################################################
+
+Frame number:332
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10025.5    511.18 (0, 255, 0) HUMAN                13.05       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.0     91.94 (255, 0, 0)  FAKE                 0.68      22.73
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  931.5    137.84 (0, 0, 255) OBJECT                 1.21     128.59
+
+####################################################################
+
+Frame number:333
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9691.5    492.35 (0, 255, 0) HUMAN                12.62       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  541.5     92.53 (255, 0, 0)  FAKE                 0.71      23.33
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  942.0    138.08 (0, 0, 255) OBJECT                 1.23     110.87
+
+####################################################################
+
+Frame number:334
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9340.5    476.69 (0, 255, 0) HUMAN                12.16       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  544.0     93.11 (255, 0, 0)  FAKE                 0.71      43.31
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  946.0    135.25 (0, 0, 255) OBJECT                 1.23     133.69
+
+####################################################################
+
+Frame number:335
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  8551.5    478.69 (0, 255, 0) HUMAN                11.13       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  537.0     93.11 (255, 0, 0)  FAKE                  0.7      21.24
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  944.0    134.43 (0, 0, 255) OBJECT                 1.23     137.96
+
+####################################################################
+
+Frame number:336
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7773.0    454.25 (0, 255, 0) HUMAN                10.12       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  543.0     93.11 (255, 0, 0)  FAKE                 0.71      14.78
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1067.0     139.6 (0, 0, 255) OBJECT                 1.39     159.59
+
+####################################################################
+
+Frame number:337
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7964.5    433.38 (0, 255, 0) HUMAN                10.37       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  556.5     92.53 (255, 0, 0)  FAKE                 0.72      17.15
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  944.5    137.84 (0, 0, 255) OBJECT                 1.23     127.72
+
+####################################################################
+
+Frame number:338
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7790.0    415.82 (0, 255, 0) HUMAN                10.14       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  549.0     92.28 (255, 0, 0)  FAKE                 0.71       15.0
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  946.0    135.25 (0, 0, 255) OBJECT                 1.23     133.11
+
+####################################################################
+
+Frame number:339
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6842.0    386.45 (0, 255, 0) HUMAN                 8.91       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  553.0     94.28 (255, 0, 0)  FAKE                 0.72      34.78
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  945.5    137.84 (0, 0, 255) OBJECT                 1.23     109.43
+
+####################################################################
+
+Frame number:340
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6357.0    390.59 (0, 255, 0) HUMAN                 8.28       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  550.5      93.7 (255, 0, 0)  FAKE                 0.72      25.59
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1096.0     141.6 (0, 0, 255) OBJECT                 1.43     143.54
+
+####################################################################
+
+Frame number:341
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  5971.5    354.55 (0, 255, 0) HUMAN                 7.78       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  559.5     92.53 (255, 0, 0)  FAKE                 0.73      16.44
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1104.0    140.77 (0, 0, 255) OBJECT                 1.44     148.33
+
+####################################################################
+
+Frame number:342
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  5818.5    350.55 (0, 255, 0) HUMAN                 7.58       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  561.5      95.7 (255, 0, 0)  FAKE                 0.73      21.18
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  941.5    135.84 (0, 0, 255) OBJECT                 1.23     121.92
+
+####################################################################
+
+Frame number:343
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  5903.0    358.51 (0, 255, 0) HUMAN                 7.69       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  558.5      93.7 (255, 0, 0)  FAKE                 0.73      25.49
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  944.5    135.84 (0, 0, 255) OBJECT                 1.23     123.57
+
+####################################################################
+
+Frame number:344
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  5587.5    364.89 (0, 255, 0) HUMAN                 7.28       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  562.5     92.53 (255, 0, 0)  FAKE                 0.73       15.1
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1046.0     137.6 (0, 0, 255) OBJECT                 1.36     160.13
+
+####################################################################
+
+Frame number:345
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  5253.5    364.55 (0, 255, 0) HUMAN                 6.84       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  551.5      93.7 (255, 0, 0)  FAKE                 0.72      37.18
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  944.0    135.25 (0, 0, 255) OBJECT                 1.23     130.84
+
+####################################################################
+
+Frame number:346
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  5436.0    362.31 (0, 255, 0) HUMAN                 7.08       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  562.5     94.87 (255, 0, 0)  FAKE                 0.73      38.21
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  917.0    134.43 (0, 0, 255) OBJECT                 1.19     121.66
+
+####################################################################
+
+Frame number:347
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6066.0    360.51 (0, 255, 0) HUMAN                  7.9       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  546.0     95.11 (255, 0, 0)  FAKE                 0.71      45.33
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  957.0    135.25 (0, 0, 255) OBJECT                 1.25     133.34
+
+####################################################################
+
+Frame number:348
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6093.0    378.79 (0, 255, 0) HUMAN                 7.93       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  558.5      95.7 (255, 0, 0)  FAKE                 0.73      21.45
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  942.5    135.84 (0, 0, 255) OBJECT                 1.23     130.21
+
+####################################################################
+
+Frame number:349
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6647.5    393.52 (0, 255, 0) HUMAN                 8.66       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  563.5      93.7 (255, 0, 0)  FAKE                 0.73      31.14
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  960.0    135.25 (0, 0, 255) OBJECT                 1.25     134.14
+
+####################################################################
+
+Frame number:350
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7073.5    426.01 (0, 255, 0) HUMAN                 9.21       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  548.0     94.28 (255, 0, 0)  FAKE                 0.71      33.24
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  959.0    136.08 (0, 0, 255) OBJECT                 1.25     133.89
+
+####################################################################
+
+Frame number:351
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6972.0    456.39 (0, 255, 0) HUMAN                 9.08       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  545.0     93.11 (255, 0, 0)  FAKE                 0.71      20.88
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  955.0    137.25 (0, 0, 255) OBJECT                 1.24     117.96
+
+####################################################################
+
+Frame number:352
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7280.5    474.63 (0, 255, 0) HUMAN                 9.48       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  559.5     94.87 (255, 0, 0)  FAKE                 0.73      34.06
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  944.5    138.67 (0, 0, 255) OBJECT                 1.23     120.62
+
+####################################################################
+
+Frame number:353
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7375.5    474.84 (0, 255, 0) HUMAN                  9.6       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  541.5     94.18 (255, 0, 0)  FAKE                 0.71       22.5
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1071.0    138.77 (0, 0, 255) OBJECT                 1.39     160.47
+
+####################################################################
+
+Frame number:354
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  8165.5    480.01 (0, 255, 0) HUMAN                10.63       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  538.5     94.53 (255, 0, 0)  FAKE                  0.7      38.93
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1048.0     139.6 (0, 0, 255) OBJECT                 1.36     152.43
+
+####################################################################
+
+Frame number:355
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  8910.5    487.18 (0, 255, 0) HUMAN                 11.6       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  525.5     92.53 (255, 0, 0)  FAKE                 0.68       22.7
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  928.0    134.43 (0, 0, 255) OBJECT                 1.21     115.49
+
+####################################################################
+
+Frame number:356
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9627.0    493.28 (0, 255, 0) HUMAN                12.54       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  522.5      91.7 (255, 0, 0)  FAKE                 0.68       28.5
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  938.5    138.67 (0, 0, 255) OBJECT                 1.22     131.66
+
+####################################################################
+
+Frame number:357
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10607.0    507.14 (0, 255, 0) HUMAN                13.81       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.0     91.11 (255, 0, 0)  FAKE                 0.69      25.34
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  924.0    134.08 (0, 0, 255) OBJECT                  1.2     135.63
+
+####################################################################
+
+Frame number:358
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11652.0    524.65 (0, 255, 0) HUMAN                15.17       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  525.0     91.11 (255, 0, 0)  FAKE                 0.68      24.03
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  912.5    136.67 (0, 0, 255) OBJECT                 1.19      118.2
+
+####################################################################
+
+Frame number:359
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12096.0    531.82 (0, 255, 0) HUMAN                15.75       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  492.0      87.8 (255, 0, 0)  FAKE                 0.64      11.45
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  898.5    132.67 (0, 0, 255) OBJECT                 1.17     143.68
+
+####################################################################
+
+Frame number:360
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11917.5    526.55 (0, 255, 0) HUMAN                15.52       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  521.0     91.11 (255, 0, 0)  FAKE                 0.68      27.38
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  801.0    135.25 (0, 0, 255) OBJECT                 1.04     114.78
+
+####################################################################
+
+Frame number:361
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11747.5    527.04 (0, 255, 0) HUMAN                 15.3       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  492.0     88.63 (255, 0, 0)  FAKE                 0.64      15.42
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  764.0    132.91 (0, 0, 255) OBJECT                 0.99     142.72
+
+####################################################################
+
+Frame number:362
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11375.5    532.01 (0, 255, 0) HUMAN                14.81       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  528.0     91.94 (255, 0, 0)  FAKE                 0.69      27.58
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  746.0    128.43 (0, 0, 255) OBJECT                 0.97     115.59
+
+####################################################################
+
+Frame number:363
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11178.5    534.98 (0, 255, 0) HUMAN                14.56       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  519.0     92.77 (255, 0, 0)  FAKE                 0.68      29.41
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  734.0    124.43 (0, 0, 255) OBJECT                 0.96     132.02
+
+####################################################################
+
+Frame number:364
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11119.0    528.19 (0, 255, 0) HUMAN                14.48       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  526.0     91.94 (255, 0, 0)  FAKE                 0.68      25.57
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  727.5    129.84 (0, 0, 255) OBJECT                 0.95     129.21
+
+####################################################################
+
+Frame number:365
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11433.5    531.61 (0, 255, 0) HUMAN                14.89       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  521.5      91.7 (255, 0, 0)  FAKE                 0.68      30.39
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  633.5    125.84 (0, 0, 255) OBJECT                 0.82      123.8
+
+####################################################################
+
+Frame number:366
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11501.0    550.48 (0, 255, 0) HUMAN                14.98       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  526.0     92.28 (255, 0, 0)  FAKE                 0.68      27.34
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  655.0    124.77 (0, 0, 255) OBJECT                 0.85     138.21
+
+####################################################################
+
+Frame number:367
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11460.0     551.5 (0, 255, 0) HUMAN                14.92       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  524.5      91.7 (255, 0, 0)  FAKE                 0.68       33.5
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  626.5     121.5 (0, 0, 255) OBJECT                 0.82     131.62
+
+####################################################################
+
+Frame number:368
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11697.0    551.85 (0, 255, 0) HUMAN                15.23       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  518.5      91.7 (255, 0, 0)  FAKE                 0.68      28.12
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  643.5    128.67 (0, 0, 255) OBJECT                 0.84     126.35
+
+####################################################################
+
+Frame number:369
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11248.0    541.85 (0, 255, 0) HUMAN                14.65       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.5     92.53 (255, 0, 0)  FAKE                 0.69      29.41
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  631.0    127.25 (0, 0, 255) OBJECT                 0.82     128.91
+
+####################################################################
+
+Frame number:370
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10427.0    534.19 (0, 255, 0) HUMAN                13.58       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  537.0     93.11 (255, 0, 0)  FAKE                  0.7       23.3
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  613.0    121.25 (0, 0, 255) OBJECT                  0.8     131.17
+
+####################################################################
+
+Frame number:371
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9422.5    513.12 (0, 255, 0) HUMAN                12.27       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  542.0     93.11 (255, 0, 0)  FAKE                 0.71      19.35
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  631.0    123.74 (0, 0, 255) OBJECT                 0.82     129.05
+
+####################################################################
+
+Frame number:372
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9539.5    521.32 (0, 255, 0) HUMAN                12.42       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  540.5      93.7 (255, 0, 0)  FAKE                  0.7      31.22
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  640.0    125.25 (0, 0, 255) OBJECT                 0.83     134.45
+
+####################################################################
+
+Frame number:373
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9441.5    517.32 (0, 255, 0) HUMAN                12.29       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  548.0     94.28 (255, 0, 0)  FAKE                 0.71      42.24
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  652.0    128.91 (0, 0, 255) OBJECT                 0.85     135.89
+
+####################################################################
+
+Frame number:374
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9858.5    533.95 (0, 255, 0) HUMAN                12.84       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  533.5      91.7 (255, 0, 0)  FAKE                 0.69      28.41
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  659.5    122.67 (0, 0, 255) OBJECT                 0.86     123.31
+
+####################################################################
+
+Frame number:375
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10473.0     543.5 (0, 255, 0) HUMAN                13.64       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  536.5     92.53 (255, 0, 0)  FAKE                  0.7      17.45
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  639.5    128.33 (0, 0, 255) OBJECT                 0.83     126.71
+
+####################################################################
+
+Frame number:376
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11583.0    557.65 (0, 255, 0) HUMAN                15.08       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  538.5     92.53 (255, 0, 0)  FAKE                  0.7      28.23
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  664.0    129.25 (0, 0, 255) OBJECT                 0.86     127.75
+
+####################################################################
+
+Frame number:377
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12675.0    562.48 (0, 255, 0) HUMAN                 16.5       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.5     92.53 (255, 0, 0)  FAKE                 0.69      19.84
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  731.0    126.43 (0, 0, 255) OBJECT                 0.95     116.37
+
+####################################################################
+
+Frame number:378
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  14261.0    575.99 (0, 255, 0) HUMAN                18.57       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.5      91.7 (255, 0, 0)  FAKE                 0.69      26.22
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  715.0    126.91 (0, 0, 255) OBJECT                 0.93     130.08
+
+####################################################################
+
+Frame number:379
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  14174.5    569.61 (0, 255, 0) HUMAN                18.46       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  545.0     93.11 (255, 0, 0)  FAKE                 0.71      19.15
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  676.0    128.08 (0, 0, 255) OBJECT                 0.88     136.68
+
+####################################################################
+
+Frame number:380
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  13400.0    564.88 (0, 255, 0) HUMAN                17.45       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  533.0     93.46 (255, 0, 0)  FAKE                 0.69      37.25
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  728.5    128.67 (0, 0, 255) OBJECT                 0.95     106.02
+
+####################################################################
+
+Frame number:381
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12759.0    544.74 (0, 255, 0) HUMAN                16.61       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  534.0     93.11 (255, 0, 0)  FAKE                  0.7      20.26
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  665.0    130.43 (0, 0, 255) OBJECT                 0.87      121.4
+
+####################################################################
+
+Frame number:382
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12813.5    531.52 (0, 255, 0) HUMAN                16.68       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  542.0     93.11 (255, 0, 0)  FAKE                 0.71      22.32
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  671.5    129.01 (0, 0, 255) OBJECT                 0.87      126.3
+
+####################################################################
+
+Frame number:383
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12585.0    524.94 (0, 255, 0) HUMAN                16.39       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  527.5     92.53 (255, 0, 0)  FAKE                 0.69      28.34
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  676.5    129.01 (0, 0, 255) OBJECT                 0.88     126.21
+
+####################################################################
+
+Frame number:384
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12246.5    522.35 (0, 255, 0) HUMAN                15.95       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  539.0     93.11 (255, 0, 0)  FAKE                  0.7      25.71
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  654.0    124.43 (0, 0, 255) OBJECT                 0.85     127.53
+
+####################################################################
+
+Frame number:385
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12614.5    521.04 (0, 255, 0) HUMAN                16.43       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  522.5     92.53 (255, 0, 0)  FAKE                 0.68       25.0
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  746.0    126.77 (0, 0, 255) OBJECT                 0.97     136.83
+
+####################################################################
+
+Frame number:386
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12709.0    526.31 (0, 255, 0) HUMAN                16.55       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  526.5     93.36 (255, 0, 0)  FAKE                 0.69      24.95
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  862.5     129.5 (0, 0, 255) OBJECT                 1.12     125.86
+
+####################################################################
+
+Frame number:387
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12749.0    528.31 (0, 255, 0) HUMAN                 16.6       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  490.0     88.63 (255, 0, 0)  FAKE                 0.64      15.45
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  893.5    132.67 (0, 0, 255) OBJECT                 1.16     117.69
+
+####################################################################
+
+Frame number:388
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12755.0    521.48 (0, 255, 0) HUMAN                16.61       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  492.5     90.04 (255, 0, 0)  FAKE                 0.64      14.74
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  909.0    134.43 (0, 0, 255) OBJECT                 1.18     113.63
+
+####################################################################
+
+Frame number:389
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12543.5    522.55 (0, 255, 0) HUMAN                16.33       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  509.0     91.11 (255, 0, 0)  FAKE                 0.66      35.77
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  913.5    133.84 (0, 0, 255) OBJECT                 1.19     131.83
+
+####################################################################
+
+Frame number:390
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12210.5    520.89 (0, 255, 0) HUMAN                 15.9       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  544.5     94.18 (255, 0, 0)  FAKE                 0.71      22.22
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  953.5     137.5 (0, 0, 255) OBJECT                 1.24     130.27
+
+####################################################################
+
+Frame number:391
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11686.0    516.31 (0, 255, 0) HUMAN                15.22       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.0     91.94 (255, 0, 0)  FAKE                 0.68      27.29
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  930.5    133.84 (0, 0, 255) OBJECT                 1.21     125.05
+
+####################################################################
+
+Frame number:392
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10932.0    512.31 (0, 255, 0) HUMAN                14.23       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  526.0     91.11 (255, 0, 0)  FAKE                 0.68      28.71
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  941.0    134.43 (0, 0, 255) OBJECT                 1.23     137.67
+
+####################################################################
+
+Frame number:393
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9954.0    509.97 (0, 255, 0) HUMAN                12.96       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  522.5      91.7 (255, 0, 0)  FAKE                 0.68      24.77
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  944.0    135.25 (0, 0, 255) OBJECT                 1.23     118.23
+
+####################################################################
+
+Frame number:394
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  8824.5    507.38 (0, 255, 0) HUMAN                11.49       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.0     93.11 (255, 0, 0)  FAKE                 0.69      19.39
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  958.0    138.08 (0, 0, 255) OBJECT                 1.25     125.84
+
+####################################################################
+
+Frame number:395
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7858.5     497.1 (0, 255, 0) HUMAN                10.23       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  540.0     93.94 (255, 0, 0)  FAKE                  0.7      20.94
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1025.5    136.18 (0, 0, 255) OBJECT                 1.34     139.83
+
+####################################################################
+
+Frame number:396
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7220.0    488.71 (0, 255, 0) HUMAN                  9.4       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  537.5      91.7 (255, 0, 0)  FAKE                  0.7      27.39
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  940.5    138.67 (0, 0, 255) OBJECT                 1.22     113.93
+
+####################################################################
+
+Frame number:397
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6936.5    486.12 (0, 255, 0) HUMAN                 9.03       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  542.0     94.28 (255, 0, 0)  FAKE                 0.71      41.64
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  927.0    135.25 (0, 0, 255) OBJECT                 1.21     135.37
+
+####################################################################
+
+Frame number:398
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6769.5    484.95 (0, 255, 0) HUMAN                 8.81       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  527.0     93.11 (255, 0, 0)  FAKE                 0.69      20.85
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1058.0    140.77 (0, 0, 255) OBJECT                 1.38      139.8
+
+####################################################################
+
+Frame number:399
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6772.5    477.98 (0, 255, 0) HUMAN                 8.82       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  549.0     94.77 (255, 0, 0)  FAKE                 0.71      20.54
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  976.5    135.84 (0, 0, 255) OBJECT                 1.27     126.78
+
+####################################################################
+
+Frame number:400
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7049.0    478.71 (0, 255, 0) HUMAN                 9.18       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.0     91.94 (255, 0, 0)  FAKE                 0.69      23.47
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  944.0    136.43 (0, 0, 255) OBJECT                 1.23     103.66
+
+####################################################################
+
+Frame number:401
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7563.5    476.95 (0, 255, 0) HUMAN                 9.85       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  518.0     91.94 (255, 0, 0)  FAKE                 0.67      30.38
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  929.5    137.84 (0, 0, 255) OBJECT                 1.21     106.04
+
+####################################################################
+
+Frame number:402
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  8339.0    486.85 (0, 255, 0) HUMAN                10.86       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  539.0     92.77 (255, 0, 0)  FAKE                  0.7      20.68
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  923.5    133.84 (0, 0, 255) OBJECT                  1.2      123.6
+
+####################################################################
+
+Frame number:403
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9384.0     497.2 (0, 255, 0) HUMAN                12.22       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  493.0      87.8 (255, 0, 0)  FAKE                 0.64      10.87
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  898.0    132.43 (0, 0, 255) OBJECT                 1.17     141.83
+
+####################################################################
+
+Frame number:404
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10366.5    510.27 (0, 255, 0) HUMAN                 13.5       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  490.0      87.8 (255, 0, 0)  FAKE                 0.64      14.35
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  796.5    136.67 (0, 0, 255) OBJECT                 1.04     130.45
+
+####################################################################
+
+Frame number:405
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11192.0    520.51 (0, 255, 0) HUMAN                14.57       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  493.0      87.8 (255, 0, 0)  FAKE                 0.64      16.68
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  790.0    132.43 (0, 0, 255) OBJECT                 1.03     124.68
+
+####################################################################
+
+Frame number:406
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11504.0    530.17 (0, 255, 0) HUMAN                14.98       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  527.0     91.11 (255, 0, 0)  FAKE                 0.69       25.0
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  772.0    130.43 (0, 0, 255) OBJECT                 1.01     135.24
+
+####################################################################
+
+Frame number:407
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12055.0    536.65 (0, 255, 0) HUMAN                 15.7       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  522.0     91.94 (255, 0, 0)  FAKE                 0.68      25.97
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  704.0    129.74 (0, 0, 255) OBJECT                 0.92     131.32
+
+####################################################################
+
+Frame number:408
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12096.5    531.87 (0, 255, 0) HUMAN                15.75       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  504.0     90.63 (255, 0, 0)  FAKE                 0.66      14.92
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  683.0    124.43 (0, 0, 255) OBJECT                 0.89     127.75
+
+####################################################################
+
+Frame number:409
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12208.5    536.84 (0, 255, 0) HUMAN                 15.9       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  519.0     91.94 (255, 0, 0)  FAKE                 0.68      27.35
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  685.5     125.5 (0, 0, 255) OBJECT                 0.89     145.29
+
+####################################################################
+
+Frame number:410
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11953.0    542.74 (0, 255, 0) HUMAN                15.56       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  522.0     91.11 (255, 0, 0)  FAKE                 0.68      29.57
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  711.0    124.43 (0, 0, 255) OBJECT                 0.93     131.45
+
+####################################################################
+
+Frame number:411
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10987.5    526.35 (0, 255, 0) HUMAN                14.31       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  522.0     91.94 (255, 0, 0)  FAKE                 0.68      24.38
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  648.0    124.43 (0, 0, 255) OBJECT                 0.84      132.1
+
+####################################################################
+
+Frame number:412
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11336.0    529.36 (0, 255, 0) HUMAN                14.76       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  489.0      87.8 (255, 0, 0)  FAKE                 0.64      17.26
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  633.5    128.33 (0, 0, 255) OBJECT                 0.82     124.07
+
+####################################################################
+
+Frame number:413
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11795.0    539.36 (0, 255, 0) HUMAN                15.36       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  490.5     89.21 (255, 0, 0)  FAKE                 0.64      17.56
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  630.0    124.08 (0, 0, 255) OBJECT                 0.82     112.76
+
+####################################################################
+
+Frame number:414
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11932.5    549.61 (0, 255, 0) HUMAN                15.54       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  533.0     92.28 (255, 0, 0)  FAKE                 0.69      23.32
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  631.0    127.25 (0, 0, 255) OBJECT                 0.82     119.02
+
+####################################################################
+
+Frame number:415
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12110.0     547.5 (0, 255, 0) HUMAN                15.77       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  520.5      91.7 (255, 0, 0)  FAKE                 0.68      32.59
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  637.0    124.08 (0, 0, 255) OBJECT                 0.83      142.2
+
+####################################################################
+
+Frame number:416
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12159.5    545.26 (0, 255, 0) HUMAN                15.83       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  544.0     93.11 (255, 0, 0)  FAKE                 0.71       22.5
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  604.5    120.67 (0, 0, 255) OBJECT                 0.79     130.86
+
+####################################################################
+
+Frame number:417
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12213.5    547.26 (0, 255, 0) HUMAN                 15.9       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  532.5      91.7 (255, 0, 0)  FAKE                 0.69      22.97
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  619.0    123.25 (0, 0, 255) OBJECT                 0.81     126.82
+
+####################################################################
+
+Frame number:418
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12368.5    549.75 (0, 255, 0) HUMAN                 16.1       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  537.0     94.28 (255, 0, 0)  FAKE                  0.7       36.6
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  631.0    122.91 (0, 0, 255) OBJECT                 0.82     129.86
+
+####################################################################
+
+Frame number:419
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12434.5    542.09 (0, 255, 0) HUMAN                16.19       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  539.5     92.53 (255, 0, 0)  FAKE                  0.7      13.47
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  617.5     125.5 (0, 0, 255) OBJECT                  0.8     121.85
+
+####################################################################
+
+Frame number:420
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12693.0    540.19 (0, 255, 0) HUMAN                16.53       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  521.5      91.7 (255, 0, 0)  FAKE                 0.68      33.38
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  621.0    126.08 (0, 0, 255) OBJECT                 0.81     132.56
+
+####################################################################
+
+Frame number:421
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12878.0    545.36 (0, 255, 0) HUMAN                16.77       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  553.0     94.28 (255, 0, 0)  FAKE                 0.72      34.59
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  705.5     129.5 (0, 0, 255) OBJECT                 0.92     143.65
+
+####################################################################
+
+Frame number:422
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  13005.5    557.26 (0, 255, 0) HUMAN                16.93       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  530.5     92.53 (255, 0, 0)  FAKE                 0.69      17.35
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  702.0     129.6 (0, 0, 255) OBJECT                 0.91     122.54
+
+####################################################################
+
+Frame number:423
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  13027.0    557.99 (0, 255, 0) HUMAN                16.96       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  541.0     93.94 (255, 0, 0)  FAKE                  0.7       23.0
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  743.0    130.43 (0, 0, 255) OBJECT                 0.97     151.79
+
+####################################################################
+
+Frame number:424
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12761.0    555.65 (0, 255, 0) HUMAN                16.62       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  529.5     92.53 (255, 0, 0)  FAKE                 0.69      21.89
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  718.5    131.01 (0, 0, 255) OBJECT                 0.94     138.85
+
+####################################################################
+
+Frame number:425
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12637.0    551.85 (0, 255, 0) HUMAN                16.45       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  549.0     94.28 (255, 0, 0)  FAKE                 0.71      39.35
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  714.5    131.01 (0, 0, 255) OBJECT                 0.93     155.24
+
+####################################################################
+
+Frame number:426
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12237.5    553.26 (0, 255, 0) HUMAN                15.93       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  545.0     93.11 (255, 0, 0)  FAKE                 0.71      16.68
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  732.5    132.67 (0, 0, 255) OBJECT                 0.95     130.06
+
+####################################################################
+
+Frame number:427
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11786.0    550.19 (0, 255, 0) HUMAN                15.35       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  539.5     92.53 (255, 0, 0)  FAKE                  0.7      22.32
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  724.5    131.84 (0, 0, 255) OBJECT                 0.94     143.21
+
+####################################################################
+
+Frame number:428
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11252.5    545.61 (0, 255, 0) HUMAN                14.65       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.5      91.7 (255, 0, 0)  FAKE                 0.68      25.12
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  699.5    131.01 (0, 0, 255) OBJECT                 0.91     127.28
+
+####################################################################
+
+Frame number:429
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10880.5    549.46 (0, 255, 0) HUMAN                14.17       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  533.0     93.11 (255, 0, 0)  FAKE                 0.69      24.66
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  687.0     125.6 (0, 0, 255) OBJECT                 0.89      143.0
+
+####################################################################
+
+Frame number:430
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10404.5    544.29 (0, 255, 0) HUMAN                13.55       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.0     91.11 (255, 0, 0)  FAKE                 0.69      27.61
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  710.5    131.01 (0, 0, 255) OBJECT                 0.93     128.06
+
+####################################################################
+
+Frame number:431
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10260.0    524.88 (0, 255, 0) HUMAN                13.36       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  536.0     93.11 (255, 0, 0)  FAKE                  0.7      23.12
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  700.5    130.18 (0, 0, 255) OBJECT                 0.91     123.69
+
+####################################################################
+
+Frame number:432
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10803.0    541.02 (0, 255, 0) HUMAN                14.07       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  533.0     93.11 (255, 0, 0)  FAKE                 0.69      25.58
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  747.0    130.43 (0, 0, 255) OBJECT                 0.97     136.71
+
+####################################################################
+
+Frame number:433
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11851.5    544.78 (0, 255, 0) HUMAN                15.43       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  519.5     90.53 (255, 0, 0)  FAKE                 0.68      29.29
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  754.5    131.01 (0, 0, 255) OBJECT                 0.98     116.64
+
+####################################################################
+
+Frame number:434
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12977.0    554.68 (0, 255, 0) HUMAN                 16.9       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  540.0     93.11 (255, 0, 0)  FAKE                  0.7      22.38
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  673.0     127.6 (0, 0, 255) OBJECT                 0.88     146.72
+
+####################################################################
+
+Frame number:435
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  13974.5    584.72 (0, 255, 0) HUMAN                 18.2       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  537.5      91.7 (255, 0, 0)  FAKE                  0.7      24.18
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  734.5    129.01 (0, 0, 255) OBJECT                 0.96      134.4
+
+####################################################################
+
+Frame number:436
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  14965.0    579.65 (0, 255, 0) HUMAN                19.49       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  539.0     93.11 (255, 0, 0)  FAKE                  0.7      22.23
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  700.0    130.08 (0, 0, 255) OBJECT                 0.91     119.57
+
+####################################################################
+
+Frame number:437
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  14706.5    578.09 (0, 255, 0) HUMAN                19.15       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  547.5     94.53 (255, 0, 0)  FAKE                 0.71      37.78
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  679.0    128.08 (0, 0, 255) OBJECT                 0.88     126.31
+
+####################################################################
+
+Frame number:438
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  14392.0    567.22 (0, 255, 0) HUMAN                18.74       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  544.5     92.53 (255, 0, 0)  FAKE                 0.71      16.77
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  742.5    127.84 (0, 0, 255) OBJECT                 0.97     135.18
+
+####################################################################
+
+Frame number:439
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  13098.0    551.22 (0, 255, 0) HUMAN                17.05       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.0     93.11 (255, 0, 0)  FAKE                 0.69      26.38
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  680.5    127.01 (0, 0, 255) OBJECT                 0.89     131.37
+
+####################################################################
+
+Frame number:440
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12851.0    537.22 (0, 255, 0) HUMAN                16.73       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.5     92.53 (255, 0, 0)  FAKE                 0.68      26.97
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  697.0    132.08 (0, 0, 255) OBJECT                 0.91     128.11
+
+####################################################################
+
+Frame number:441
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12680.5    530.15 (0, 255, 0) HUMAN                16.51       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  524.5     92.53 (255, 0, 0)  FAKE                 0.68      28.49
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  728.5    126.18 (0, 0, 255) OBJECT                 0.95     112.42
+
+####################################################################
+
+Frame number:442
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12344.5    526.15 (0, 255, 0) HUMAN                16.07       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  492.5     90.04 (255, 0, 0)  FAKE                 0.64       15.6
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  743.0    124.43 (0, 0, 255) OBJECT                 0.97     126.48
+
+####################################################################
+
+Frame number:443
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12321.5    533.66 (0, 255, 0) HUMAN                16.04       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  520.0     91.94 (255, 0, 0)  FAKE                 0.68      28.49
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  778.5    131.01 (0, 0, 255) OBJECT                 1.01     143.24
+
+####################################################################
+
+Frame number:444
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12241.0    533.76 (0, 255, 0) HUMAN                15.94       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  491.0     88.63 (255, 0, 0)  FAKE                 0.64      14.18
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  896.0    132.43 (0, 0, 255) OBJECT                 1.17     139.96
+
+####################################################################
+
+Frame number:445
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12416.0    523.14 (0, 255, 0) HUMAN                16.17       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  493.0     91.11 (255, 0, 0)  FAKE                 0.64      15.16
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  899.5    133.01 (0, 0, 255) OBJECT                 1.17     134.26
+
+####################################################################
+
+Frame number:446
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11997.5    521.72 (0, 255, 0) HUMAN                15.62       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  492.0      87.8 (255, 0, 0)  FAKE                 0.64      14.26
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  907.0    132.43 (0, 0, 255) OBJECT                 1.18     140.98
+
+####################################################################
+
+Frame number:447
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11475.5    515.58 (0, 255, 0) HUMAN                14.94       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  521.0     91.11 (255, 0, 0)  FAKE                 0.68      27.03
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  908.5    133.84 (0, 0, 255) OBJECT                 1.18     137.98
+
+####################################################################
+
+Frame number:448
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10774.0    509.82 (0, 255, 0) HUMAN                14.03       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  528.0     91.11 (255, 0, 0)  FAKE                 0.69       24.0
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  919.5    136.67 (0, 0, 255) OBJECT                  1.2     114.56
+
+####################################################################
+
+Frame number:449
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9856.0    501.34 (0, 255, 0) HUMAN                12.83       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  521.0     91.94 (255, 0, 0)  FAKE                 0.68      23.21
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  922.5    135.01 (0, 0, 255) OBJECT                  1.2     130.82
+
+####################################################################
+
+Frame number:450
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  8908.0    496.17 (0, 255, 0) HUMAN                 11.6       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  530.5     93.36 (255, 0, 0)  FAKE                 0.69      23.78
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1072.0    138.77 (0, 0, 255) OBJECT                  1.4     165.64
+
+####################################################################
+
+Frame number:451
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7870.5    487.78 (0, 255, 0) HUMAN                10.25       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  491.0     88.63 (255, 0, 0)  FAKE                 0.64      14.42
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  927.0    136.08 (0, 0, 255) OBJECT                 1.21     130.78
+
+####################################################################
+
+Frame number:452
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7074.0    487.54 (0, 255, 0) HUMAN                 9.21       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  524.0     91.11 (255, 0, 0)  FAKE                 0.68      25.23
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  950.0    138.08 (0, 0, 255) OBJECT                 1.24     125.37
+
+####################################################################
+
+Frame number:453
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6734.0     491.2 (0, 255, 0) HUMAN                 8.77       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  541.0     93.11 (255, 0, 0)  FAKE                  0.7      25.76
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  947.0    138.91 (0, 0, 255) OBJECT                 1.23      131.2
+
+####################################################################
+
+Frame number:454
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6571.0    487.88 (0, 255, 0) HUMAN                 8.56       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.0     92.77 (255, 0, 0)  FAKE                 0.68      23.26
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  930.0    134.43 (0, 0, 255) OBJECT                 1.21     125.62
+
+####################################################################
+
+Frame number:455
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6509.5    488.12 (0, 255, 0) HUMAN                 8.48       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  522.0     91.94 (255, 0, 0)  FAKE                 0.68      29.46
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  907.0    134.43 (0, 0, 255) OBJECT                 1.18     131.47
+
+####################################################################
+
+Frame number:456
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6521.0    486.71 (0, 255, 0) HUMAN                 8.49       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  532.5      91.7 (255, 0, 0)  FAKE                 0.69      25.94
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  920.0    136.08 (0, 0, 255) OBJECT                  1.2     134.71
+
+####################################################################
+
+Frame number:457
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6577.5    484.47 (0, 255, 0) HUMAN                 8.56       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  538.0      93.6 (255, 0, 0)  FAKE                  0.7       23.3
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  929.5    138.67 (0, 0, 255) OBJECT                 1.21      128.4
+
+####################################################################
+
+Frame number:458
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  6807.0    478.57 (0, 255, 0) HUMAN                 8.86       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  519.0     92.77 (255, 0, 0)  FAKE                 0.68      27.03
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  929.0    136.91 (0, 0, 255) OBJECT                 1.21     134.02
+
+####################################################################
+
+Frame number:459
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  7355.0    480.23 (0, 255, 0) HUMAN                 9.58       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.0     91.94 (255, 0, 0)  FAKE                 0.68      18.45
+
+BlobID    Area Perimeter       Color  Class Classification Score Edge Score
+     3  1055.5    140.18 (0, 0, 255) OBJECT                 1.37     144.11
+
+####################################################################
+
+Frame number:460
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  8053.0    487.54 (0, 255, 0) HUMAN                10.49       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  521.0     91.11 (255, 0, 0)  FAKE                 0.68      29.26
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  898.0    132.43 (0, 0, 255) OBJECT                 1.17     142.64
+
+####################################################################
+
+Frame number:461
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9022.0    496.71 (0, 255, 0) HUMAN                11.75       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.0     91.11 (255, 0, 0)  FAKE                 0.68      29.35
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  896.0    132.43 (0, 0, 255) OBJECT                 1.17     132.04
+
+####################################################################
+
+Frame number:462
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9961.0    512.85 (0, 255, 0) HUMAN                12.97       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  504.0     90.28 (255, 0, 0)  FAKE                 0.66      13.21
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  780.5    131.01 (0, 0, 255) OBJECT                 1.02      145.2
+
+####################################################################
+
+Frame number:463
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10752.5     521.1 (0, 255, 0) HUMAN                 14.0       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  517.5     90.87 (255, 0, 0)  FAKE                 0.67      35.31
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  770.5    132.18 (0, 0, 255) OBJECT                  1.0     138.27
+
+####################################################################
+
+Frame number:464
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11456.5    530.75 (0, 255, 0) HUMAN                14.92       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  520.0     91.94 (255, 0, 0)  FAKE                 0.68      25.38
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  736.5    131.01 (0, 0, 255) OBJECT                 0.96      111.0
+
+####################################################################
+
+Frame number:465
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11639.5    534.41 (0, 255, 0) HUMAN                15.16       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  520.0     91.94 (255, 0, 0)  FAKE                 0.68      25.46
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  735.0    128.43 (0, 0, 255) OBJECT                 0.96     121.18
+
+####################################################################
+
+Frame number:466
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11690.0    530.79 (0, 255, 0) HUMAN                15.22       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  535.0     92.77 (255, 0, 0)  FAKE                  0.7      25.34
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  648.0    127.25 (0, 0, 255) OBJECT                 0.84     110.81
+
+####################################################################
+
+Frame number:467
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11667.0    533.76 (0, 255, 0) HUMAN                15.19       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.0     91.11 (255, 0, 0)  FAKE                 0.68      30.06
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  671.5    125.84 (0, 0, 255) OBJECT                 0.87     120.47
+
+####################################################################
+
+Frame number:468
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11297.5    536.84 (0, 255, 0) HUMAN                14.71       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  501.0     90.63 (255, 0, 0)  FAKE                 0.65      15.91
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  660.0    122.43 (0, 0, 255) OBJECT                 0.86     135.19
+
+####################################################################
+
+Frame number:469
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10440.0    519.42 (0, 255, 0) HUMAN                13.59       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  521.5     92.53 (255, 0, 0)  FAKE                 0.68      31.17
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  638.5    124.67 (0, 0, 255) OBJECT                 0.83     121.41
+
+####################################################################
+
+Frame number:470
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10577.0    518.74 (0, 255, 0) HUMAN                13.77       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  529.0     91.94 (255, 0, 0)  FAKE                 0.69      27.03
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  629.0    124.08 (0, 0, 255) OBJECT                 0.82     116.25
+
+####################################################################
+
+Frame number:471
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11243.0    525.71 (0, 255, 0) HUMAN                14.64       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  490.0     89.46 (255, 0, 0)  FAKE                 0.64      18.15
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  660.5    123.01 (0, 0, 255) OBJECT                 0.86     133.84
+
+####################################################################
+
+Frame number:472
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11578.0    540.53 (0, 255, 0) HUMAN                15.08       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  542.0     92.77 (255, 0, 0)  FAKE                 0.71      18.73
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  641.0    126.91 (0, 0, 255) OBJECT                 0.83     121.76
+
+####################################################################
+
+Frame number:473
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11738.5    552.43 (0, 255, 0) HUMAN                15.28       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  524.5     92.53 (255, 0, 0)  FAKE                 0.68      29.22
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  619.0    124.91 (0, 0, 255) OBJECT                 0.81     121.35
+
+####################################################################
+
+Frame number:474
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12175.5    560.09 (0, 255, 0) HUMAN                15.85       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  528.0     93.94 (255, 0, 0)  FAKE                 0.69      23.85
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  622.0    125.25 (0, 0, 255) OBJECT                 0.81     138.35
+
+####################################################################
+
+Frame number:475
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12573.5    562.72 (0, 255, 0) HUMAN                16.37       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  536.0     93.94 (255, 0, 0)  FAKE                  0.7      25.69
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  630.0    125.25 (0, 0, 255) OBJECT                 0.82     116.31
+
+####################################################################
+
+Frame number:476
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12327.0    565.85 (0, 255, 0) HUMAN                16.05       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  548.5      93.7 (255, 0, 0)  FAKE                 0.71      33.46
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  620.5     125.5 (0, 0, 255) OBJECT                 0.81     111.74
+
+####################################################################
+
+Frame number:477
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11786.5    558.78 (0, 255, 0) HUMAN                15.35       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  530.0     91.11 (255, 0, 0)  FAKE                 0.69      28.06
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  639.0    124.08 (0, 0, 255) OBJECT                 0.83     123.91
+
+####################################################################
+
+Frame number:478
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10928.0    540.53 (0, 255, 0) HUMAN                14.23       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  537.0     92.28 (255, 0, 0)  FAKE                  0.7      22.13
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  618.5    118.67 (0, 0, 255) OBJECT                 0.81     137.43
+
+####################################################################
+
+Frame number:479
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10317.0    528.05 (0, 255, 0) HUMAN                13.43       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  536.5     92.53 (255, 0, 0)  FAKE                  0.7      19.88
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  637.5     125.5 (0, 0, 255) OBJECT                 0.83     131.51
+
+####################################################################
+
+Frame number:480
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9935.0    524.88 (0, 255, 0) HUMAN                12.94       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  544.5     92.53 (255, 0, 0)  FAKE                 0.71      17.85
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  631.5     123.5 (0, 0, 255) OBJECT                 0.82     126.78
+
+####################################################################
+
+Frame number:481
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9387.5    526.09 (0, 255, 0) HUMAN                12.22       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  542.0     93.94 (255, 0, 0)  FAKE                 0.71      21.86
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  643.5    128.67 (0, 0, 255) OBJECT                 0.84     125.28
+
+####################################################################
+
+Frame number:482
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9852.5    527.12 (0, 255, 0) HUMAN                12.83       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  546.0     93.11 (255, 0, 0)  FAKE                 0.71       16.5
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  662.5    126.67 (0, 0, 255) OBJECT                 0.86     137.92
+
+####################################################################
+
+Frame number:483
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10777.5    538.92 (0, 255, 0) HUMAN                14.03       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  535.5      91.7 (255, 0, 0)  FAKE                  0.7      19.68
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  706.0    124.43 (0, 0, 255) OBJECT                 0.92     127.27
+
+####################################################################
+
+Frame number:484
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11218.0    538.68 (0, 255, 0) HUMAN                14.61       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  537.5     92.53 (255, 0, 0)  FAKE                  0.7      19.59
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  679.0     129.6 (0, 0, 255) OBJECT                 0.88     127.89
+
+####################################################################
+
+Frame number:485
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12231.0    576.62 (0, 255, 0) HUMAN                15.93       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  545.0     93.11 (255, 0, 0)  FAKE                 0.71      19.85
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  668.0     129.6 (0, 0, 255) OBJECT                 0.87     116.44
+
+####################################################################
+
+Frame number:486
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12806.0    564.33 (0, 255, 0) HUMAN                16.67       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  522.5      91.7 (255, 0, 0)  FAKE                 0.68      24.09
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  676.0    126.43 (0, 0, 255) OBJECT                 0.88      142.6
+
+####################################################################
+
+Frame number:487
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12744.5    546.29 (0, 255, 0) HUMAN                16.59       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  540.5     92.53 (255, 0, 0)  FAKE                  0.7      20.46
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  636.5     129.5 (0, 0, 255) OBJECT                 0.83     138.42
+
+####################################################################
+
+Frame number:488
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12338.0    539.56 (0, 255, 0) HUMAN                16.07       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  518.0     91.11 (255, 0, 0)  FAKE                 0.67      22.44
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  678.0    130.91 (0, 0, 255) OBJECT                 0.88     131.22
+
+####################################################################
+
+Frame number:489
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12028.5    544.35 (0, 255, 0) HUMAN                15.66       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  539.0     93.11 (255, 0, 0)  FAKE                  0.7      19.77
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  656.0    126.43 (0, 0, 255) OBJECT                 0.85     117.26
+
+####################################################################
+
+Frame number:490
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11605.0    543.62 (0, 255, 0) HUMAN                15.11       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.5     92.53 (255, 0, 0)  FAKE                 0.68      29.32
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  676.5     127.5 (0, 0, 255) OBJECT                 0.88     126.46
+
+####################################################################
+
+Frame number:491
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11269.5    547.38 (0, 255, 0) HUMAN                14.67       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  531.5     93.36 (255, 0, 0)  FAKE                 0.69      24.72
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  647.5     127.5 (0, 0, 255) OBJECT                 0.84     121.81
+
+####################################################################
+
+Frame number:492
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11093.5    549.52 (0, 255, 0) HUMAN                14.44       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  524.0     91.94 (255, 0, 0)  FAKE                 0.68      22.49
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  631.0    126.08 (0, 0, 255) OBJECT                 0.82     132.46
+
+####################################################################
+
+Frame number:493
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10081.0    538.39 (0, 255, 0) HUMAN                13.13       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  527.5      91.7 (255, 0, 0)  FAKE                 0.69      25.91
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  646.5     125.5 (0, 0, 255) OBJECT                 0.84     130.64
+
+####################################################################
+
+Frame number:494
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9892.0    537.85 (0, 255, 0) HUMAN                12.88       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  523.5     92.53 (255, 0, 0)  FAKE                 0.68      27.49
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  618.0    124.08 (0, 0, 255) OBJECT                  0.8     145.49
+
+####################################################################
+
+Frame number:495
+BlobID    Area Perimeter       Color Class Classification Score Edge Score
+     1  9901.5     533.4 (0, 255, 0) HUMAN                12.89       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  530.0     91.11 (255, 0, 0)  FAKE                 0.69      21.78
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  646.0    125.25 (0, 0, 255) OBJECT                 0.84      112.5
+
+####################################################################
+
+Frame number:496
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  10485.5    540.43 (0, 255, 0) HUMAN                13.65       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  548.0     91.94 (255, 0, 0)  FAKE                 0.71      18.34
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  646.5    126.67 (0, 0, 255) OBJECT                 0.84     137.36
+
+####################################################################
+
+Frame number:497
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11092.0    555.16 (0, 255, 0) HUMAN                14.44       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  538.0     93.94 (255, 0, 0)  FAKE                  0.7      23.25
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  668.5    127.84 (0, 0, 255) OBJECT                 0.87      131.1
+
+####################################################################
+
+Frame number:498
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12024.0     565.5 (0, 255, 0) HUMAN                15.66       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  546.0     93.94 (255, 0, 0)  FAKE                 0.71      16.97
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  737.5    125.84 (0, 0, 255) OBJECT                 0.96     132.76
+
+####################################################################
+
+Frame number:499
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12187.0     557.5 (0, 255, 0) HUMAN                15.87       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  529.0     92.28 (255, 0, 0)  FAKE                 0.69      26.91
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  714.5    132.18 (0, 0, 255) OBJECT                 0.93     141.19
+
+####################################################################
+
+Frame number:500
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  12324.5     567.4 (0, 255, 0) HUMAN                16.05       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  538.5      93.7 (255, 0, 0)  FAKE                  0.7      32.73
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  794.0    136.08 (0, 0, 255) OBJECT                 1.03     136.58
+
+####################################################################
+
+Frame number:501
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  11962.5    576.37 (0, 255, 0) HUMAN                15.58       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  532.0     92.28 (255, 0, 0)  FAKE                 0.69      25.03
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  768.5    135.84 (0, 0, 255) OBJECT                  1.0     127.71
+
+####################################################################
+
+Frame number:502
+BlobID     Area Perimeter       Color Class Classification Score Edge Score
+     1  13522.0    570.62 (0, 255, 0) HUMAN                17.61       None
+
+BlobID   Area Perimeter       Color Class Classification Score Edge Score
+     2  548.0     93.11 (255, 0, 0)  FAKE                 0.71      20.54
+
+BlobID   Area Perimeter       Color  Class Classification Score Edge Score
+     3  875.5     135.5 (0, 0, 255) OBJECT                 1.14     121.69
+
